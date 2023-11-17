@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09855768806301057
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09525824605952948
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09543052804656327
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09440665901638567
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09573829802684486
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09304688009433448
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09288994397502393
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09393632900901139
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09326118906028569
+correlat,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.09316565503831953

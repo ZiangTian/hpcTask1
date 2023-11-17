@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011488941963762045
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011796522012446076
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011699576978571713
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011505929986014962
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011482844012789428
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011598150013014674
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011527055990882218
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011627919040620327
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011508702009450644
+spmv,microapp,Graphs,sparse_linear_algebra,NumPy,main,numpy,True,0.011446896009147167

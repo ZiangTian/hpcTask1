@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6207804069999838
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6719786670000758
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.7403177919986774
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6242237810001825
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6592442440014565
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6821768980007619
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6386302770006296
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6202672840008745
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.5994626139981847
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,strict,True,0.6137107680006011
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.7450913629982097
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.6446674309991067
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.7484078079978644
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.6058553809998557
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.700549527999101
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.6540140329998394
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.5892301540006883
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.6372368310003367
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.7215235369985749
+azimint_hist,microapp,crystallography,spectral_methods,DaCe CPU,main,fusion,True,0.6188922559995262

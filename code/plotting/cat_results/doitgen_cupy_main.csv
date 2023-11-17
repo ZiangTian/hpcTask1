@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020897388458251953
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020111560821533203
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020520687103271484
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020052671432495117
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020472288131713867
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.02012491226196289
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.02046823501586914
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020093441009521484
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.02046036720275879
+doitgen,microbench,Chemistry,dense_linear_algebra,CuPy GPU,main,cupy,True,0.020092010498046875

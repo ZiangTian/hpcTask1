@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14706224296242
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.1468828180222772
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14698205899912864
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.1469323540222831
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14694835495902225
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14698256901465356
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14694625500123948
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14726057497318834
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14694061799673364
+clipping,microbench,Signals,monte_carlo,Pythran,main,pythran,True,0.14726709196111187

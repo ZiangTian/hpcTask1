@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013885837979614735
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013985106954351068
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013828952913172543
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013784507988020778
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013842566986568272
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.01376818201970309
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013893975992687047
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013932649977505207
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.01383864798117429
+trisolv,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.013682263088412583

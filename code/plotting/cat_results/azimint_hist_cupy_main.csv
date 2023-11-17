@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004625082015991211
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004572868347167969
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004522800445556641
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.0045185089111328125
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004540205001831055
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004509925842285156
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004507541656494141
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004512310028076172
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.0045166015625
+azimhist,microapp,Chemistry,spectral_methods,CuPy GPU,main,cupy,True,0.004510164260864258

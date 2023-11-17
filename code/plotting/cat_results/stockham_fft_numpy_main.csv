@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.3138109929859638
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.31569220300298184
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.32372266496531665
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.3094690900761634
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.3112702870275825
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.30911802605260164
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.3090612191008404
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.30953280499670655
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.30959145398810506
+sthamfft,microbench,Signals,spectral_methods,NumPy,main,numpy,True,0.3107046220684424

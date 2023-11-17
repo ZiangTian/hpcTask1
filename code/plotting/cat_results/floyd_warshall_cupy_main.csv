@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.504921436309814
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.494239330291748
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.502291202545166
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.491199016571045
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.465725898742676
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.486459732055664
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.468867778778076
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.447597742080688
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.468533039093018
+floydwar,microapp,Graphs,dynamic_programming,CuPy GPU,main,cupy,True,8.44991946220398

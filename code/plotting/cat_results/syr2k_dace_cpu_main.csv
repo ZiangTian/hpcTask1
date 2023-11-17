@@ -1,0 +1,3 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+syr2k,microbench,LinAlg,dense_linear_algebra,DaCe,main,strict,True,210.5088677406311
+syr2k,microbench,LinAlg,dense_linear_algebra,DaCe,main,fusion,True,50.138933181762695

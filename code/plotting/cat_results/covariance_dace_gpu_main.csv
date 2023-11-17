@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.1212654790142551
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.10365199495572597
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08312921202741563
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08291515405289829
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08279085601679981
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08288063295185566
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08283917198423296
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08292021101806313
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08289837802294642
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,strict,False,0.08291841403115541
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.12120965798385441
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.10391626309137791
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08292443491518497
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08308715000748634
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08294609899166971
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08290805795695633
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.0830591629492119
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08291126193944365
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08279826503712684
+covarian,microbench,Learning,dense_linear_algebra,DaCe GPU,main,fusion,False,0.08290530298836529

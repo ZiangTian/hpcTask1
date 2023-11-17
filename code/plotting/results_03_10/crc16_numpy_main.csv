@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,0.9939322918653488
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,0.9883777555078268
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,0.9836992956697941
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,0.981460040435195
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,1.028000881895423
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,1.0376407988369465
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,1.0758235175162554
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,1.0308246240019798
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,1.0280050970613956
+crc16,microbench,other,combinatorial,NumPy,main,numpy,True,0.9920432046055794

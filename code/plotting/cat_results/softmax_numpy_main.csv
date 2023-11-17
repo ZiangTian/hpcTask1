@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.1775208959588781
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17702435597311705
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17702041706070304
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17686349095311016
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17699627100955695
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17679409799166024
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17863271199166775
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17760891700163484
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.17671902291476727
+softmax,microbench,Learning,dense_linear_algebra,NumPy,main,numpy,True,0.18968301999848336

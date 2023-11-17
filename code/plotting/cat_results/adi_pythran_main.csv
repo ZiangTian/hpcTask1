@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06389493891038
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06424475798849016
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06385438900906593
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.0637784410500899
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06408950197510421
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06322647095657885
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06321425409987569
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06325301504693925
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06328898807987571
+adi,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.06331208697520196

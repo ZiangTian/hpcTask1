@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.0066263675689697266
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.006516456604003906
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.006500959396362305
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.0064983367919921875
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.006491661071777344
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.0064961910247802734
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.006571292877197266
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.006491661071777344
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.006489276885986328
+clipping,microbench,Signals,monte_carlo,CuPy GPU,main,cupy,True,0.0064885616302490234

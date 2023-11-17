@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.15677237196359783
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.15720089594833553
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.156771823996678
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.15660184901207685
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.15655156306456774
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.1645630830898881
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.16510327404830605
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.16285918606445193
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.15523428202141076
+gramschm,microbench,Solver,dense_linear_algebra,NumPy,main,numpy,True,0.1558644319884479

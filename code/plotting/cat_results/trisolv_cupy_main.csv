@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.2429494857788086
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24243831634521484
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24235033988952637
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24241018295288086
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24341964721679688
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24115800857543945
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24083924293518066
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24077677726745605
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24198055267333984
+trisolv,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,True,0.24161005020141602

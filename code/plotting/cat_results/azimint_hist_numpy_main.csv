@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.018733000033535063
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.018546723993495107
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.01832670997828245
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.018452714022714645
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.01840852404711768
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.01843185699544847
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.018527664011344314
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.01852761599002406
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.018489670008420944
+azimhist,microapp,Chemistry,spectral_methods,NumPy,main,numpy,True,0.018493171024601907

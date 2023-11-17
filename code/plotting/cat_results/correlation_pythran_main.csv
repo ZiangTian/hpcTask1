@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.9036535440245643
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.8137290000449866
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.7246486149961129
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.7576103480532765
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.6589248339878395
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.681141003035009
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.6636449440848082
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.6665767730446532
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.6535416680853814
+correlat,microbench,Learning,dense_linear_algebra,Pythran,main,pythran,False,1.6097646849229932

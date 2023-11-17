@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.8603289960301481
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.8009336279937997
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.7500405170139857
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.8448394169681706
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.826195003988687
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.7809123930055648
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.778717648005113
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.7809825610020198
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.8178085790132172
+coninteg,microapp,Physics,dense_linear_algebra,NumPy,main,numpy,True,0.7730652469908819

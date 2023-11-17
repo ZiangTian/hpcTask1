@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,0.00010459870100021362
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.699111640453339e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.20700079202652e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.730031549930573e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.162111043930054e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.12821090221405e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.410029113292694e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,8.228793740272522e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,7.925927639007568e-05
+mlp,microapp,deep_learning,dense_linear_algebra,NumPy,main,numpy,True,7.954053580760956e-05

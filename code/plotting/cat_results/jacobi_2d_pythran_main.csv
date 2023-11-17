@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.031549826962873
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.019876011065207
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.03133066999726
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.019329571980052
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.02661908697337
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.016286217956804
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.030629398068413
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.018672581994906
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.029370832024142
+jacobi2d,microbench,Physics,structured_grids,Pythran,main,pythran,True,8.01962855795864

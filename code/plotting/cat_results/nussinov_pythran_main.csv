@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.018184256041422486
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017874052980914712
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017852524062618613
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.01780884899199009
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017868130933493376
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017838036990724504
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017839353997260332
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017868094029836357
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017930521978996694
+nussinov,microapp,Chemistry,dynamic_programming,Pythran,main,pythran,True,0.017934074974618852

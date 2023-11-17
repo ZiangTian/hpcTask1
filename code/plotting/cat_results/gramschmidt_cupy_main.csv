@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.6008033752441406
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.521547555923462
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.51629638671875
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5136148929595947
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5109994411468506
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5067741870880127
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5060346126556396
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5067877769470215
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5074467658996582
+gramschm,microbench,Solver,dense_linear_algebra,CuPy GPU,main,cupy,False,1.5118975639343262

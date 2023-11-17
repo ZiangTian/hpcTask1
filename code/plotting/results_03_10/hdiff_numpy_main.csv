@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03562667593359947
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.036639636382460594
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03656459599733353
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03667524829506874
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.036565015092492104
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03663475625216961
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03658030368387699
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03675902634859085
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.03662292845547199
+hdiff,microapp,climate,structured_grids,NumPy,main,numpy,True,0.036685528233647346

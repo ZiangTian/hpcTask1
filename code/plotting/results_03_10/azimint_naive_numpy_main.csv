@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3713559340685606
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3703309427946806
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.377063687890768
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3731793966144323
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3719990029931068
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3771307095885277
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3725699447095394
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.371662463992834
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3771241679787636
+azimint_naive,microapp,crystallography,spectral_methods,NumPy,main,numpy,True,1.3731441926211119

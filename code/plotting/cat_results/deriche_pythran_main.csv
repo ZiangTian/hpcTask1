@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3803539799991995
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3788597990060225
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3789768209680915
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3804281579796225
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3814230680000037
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.380868918960914
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3838177199941128
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3827213790500537
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.3821762320585549
+deriche,microapp,Signals,dense_linear_algebra,Pythran,main,pythran,True,1.377729378058575

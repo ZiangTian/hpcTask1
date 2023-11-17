@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.302814706985373
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.229684626974631
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2250909320428036
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2148601660155691
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2072601040126756
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2164361819741316
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.218387253000401
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2194800070137717
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2116075329831801
+mandel1,microbench,Other,unstructured_grids,Pythran,main,pythran,True,1.2223513039643876

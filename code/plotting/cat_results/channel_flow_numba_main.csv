@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.26289942499715835
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.26161965198116377
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.26203600905137137
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.2613865290186368
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.2622613930143416
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.26132586295716465
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.2622868010075763
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.2612161409924738
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.26218382496153936
+chanflow,microapp,Physics,structured_grids,Numba,main,nopython_mode,True,0.2612060140236281

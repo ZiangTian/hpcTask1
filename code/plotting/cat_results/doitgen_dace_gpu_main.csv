@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.017805267008952796
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.01624093495775014
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.0161549539770931
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.0162036040564999
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.016185918007977307
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.016164081054739654
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.01612974505405873
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.016018989961594343
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.01607714092824608
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,strict,True,0.016039061010815203
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.01644523104187101
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.01600937102921307
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.016005222918465734
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.015984359080903232
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.01603145501576364
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.016090062097646296
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.016106495982967317
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.016072790953330696
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.015977180912159383
+doitgen,microbench,Chemistry,dense_linear_algebra,DaCe GPU,main,fusion,True,0.015686583006754518

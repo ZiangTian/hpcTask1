@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.04896927496884
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.0432281480170786
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.0438061089953408
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.04339187592268
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.0439085650723428
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.0444401419954374
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.0433640769915655
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.043573280912824
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.044684082036838
+syr2k,microbench,LinAlg,dense_linear_algebra,Numba,main,nopython_mode,True,2.0432044999906793

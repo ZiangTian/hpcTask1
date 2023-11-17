@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.648010548204184
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.454690791666508
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.388812212273479
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.320097027346492
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.277933117002249
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.289521118625998
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.553692372515798
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,15.768346693366766
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,16.067818220704794
+seidel_2d,microbench,kernels,structured_grids,NumPy,main,numpy,True,16.295507127419114

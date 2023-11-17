@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.49985694885253906
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.4402918815612793
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.436295747756958
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.434553861618042
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.4368903636932373
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.43487024307250977
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.4380371570587158
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.4345231056213379
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.43821263313293457
+resnet,microapp,Learning,dense_linear_algebra,CuPy GPU,main,cupy,True,0.4333958625793457

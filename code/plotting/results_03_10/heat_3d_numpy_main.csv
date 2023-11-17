@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17235272750258446
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17189866676926613
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17156992480158806
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17151753790676594
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17161664552986622
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.1714882180094719
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.1716439053416252
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17417914047837257
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.17152803763747215
+heat_3d,microbench,kernels,structured_grids,NumPy,main,numpy,True,0.1717830952256918

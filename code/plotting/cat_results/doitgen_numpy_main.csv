@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.3726180939702317
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.3857510630041361
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.3796091990079731
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.3828708640066907
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.36842550802975893
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.395902837975882
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.40643871400970966
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.39944128203205764
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.40267114399466664
+doitgen,microbench,Chemistry,dense_linear_algebra,NumPy,main,numpy,True,0.3836408279603347

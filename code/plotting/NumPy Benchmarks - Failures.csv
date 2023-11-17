@@ -1,0 +1,65 @@
+Benchmark,Framework,Reason
+resnet,Pythran,compilation
+mlp,Pythran,compilation
+correlat,Pythran,validation
+mandel2,Pythran,compilation
+npgofast,Pythran,compilation
+sthamfft,Pythran,compilation
+doitgen,Pythran,compilation
+coninteg,Pythran,unsupported
+sselfeng,Pythran,compilation
+nbody,Pythran,compilation
+azimhist,DaCe GPU,compilation
+azimnaiv,DaCe GPU,compilation
+nussinov,DaCe GPU,execution
+vadv,DaCe,validation
+vadv,DaCe GPU,compilation
+resnet,DaCe GPU,compilation
+lenet,DaCe GPU,compilation
+conv2d,DaCe GPU,compilation
+mlp,DaCe,validation
+mlp,DaCe GPU,compilation
+floydwar,DaCe GPU,validation
+correlat,DaCe GPU,validation
+covarian,DaCe GPU,validation
+mandel1,DaCe GPU,compilation
+ludcmp,DaCe GPU,validation
+lu,DaCe GPU,validation
+mandel2,DaCe,unsupported
+mandel2,DaCe GPU,unsupported
+seidel2d,DaCe GPU,compilation
+spmv,DaCe,compilation
+spmv,DaCe GPU,compilation
+sthamfft,DaCe,compilation
+sthamfft,DaCe GPU,compilation
+symm,DaCe GPU,compilation
+syr2k,DaCe GPU,compilation
+syrk,DaCe GPU,compilation
+adi,DaCe,validation
+adi,DaCe GPU,validation
+cholesky,DaCe GPU,compilation
+crc16,DaCe GPU,runtime
+durbin,DaCe GPU,compilation
+gemver,DaCe,validation
+gemver,DaCe GPU,validation
+gramschm,CuPy GPU,validation
+gramschm,DaCe GPU,compilation
+gramschm,DaCe,validation
+gramschm,Numba,validation
+gramschm,Pythran,validation
+heat_3d,DaCe GPU,compilation
+trmm,DaCe GPU,compilation
+coninteg,DaCe,unsupported
+coninteg,DaCe GPU,unsupported
+sselfeng,DaCe,runtime
+sselfeng,DaCe GPU,compilation
+chanflow,DaCe,validation
+chanflow,DaCe GPU,compilation
+cavtflow,DaCe GPU,compilation
+nbody,DaCe,validation
+nbody,DaCe GPU,compilation
+deriche,DaCe,validation
+deriche,DaCe GPU,validation
+cholesky2,Pythran,unsupported
+cholesky2,DaCe,unsupported
+cholesky2,DaCe GPU,unsupported

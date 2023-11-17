@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.360588788986206
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.37603974342346
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.22421455383301
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.390719175338745
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.325194120407104
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.44265270233154
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.35622978210449
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.352691411972046
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.24558711051941
+sselfeng,microapp,Physics,dense_linear_algebra,CuPy GPU,main,cupy,True,35.31316161155701

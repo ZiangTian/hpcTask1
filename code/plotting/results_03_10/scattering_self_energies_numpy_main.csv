@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.896145408973098
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.850353702902794
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.8525189869105816
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.861613465473056
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.8560361675918102
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.8619760777801275
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.8529464323073626
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.8475301172584295
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.845971543341875
+scattering_self_energies,microapp,qts,dense_linear_algebra,NumPy,main,numpy,True,2.8508571665734053

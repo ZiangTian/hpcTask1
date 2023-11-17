@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.006066322326660156
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.0060770511627197266
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.005960226058959961
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.005957126617431641
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.0059473514556884766
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.005954265594482422
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.0059506893157958984
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.005968332290649414
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.005947113037109375
+sthamfft,microbench,Signals,spectral_methods,CuPy GPU,main,cupy,True,0.005973339080810547

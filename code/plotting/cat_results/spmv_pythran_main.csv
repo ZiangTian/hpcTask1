@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.850802598521113e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.605399100109935e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.054399561136961e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.044597391039133e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.039201540872455e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.042600868269801e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.039201540872455e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.040400618687272e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,9.86889936029911e-05
+spmv,microapp,Graphs,sparse_linear_algebra,Pythran,main,pythran,True,8.784799138084054e-05

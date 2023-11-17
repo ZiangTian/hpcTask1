@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.5778309591114521
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6405546218156815
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.5779543444514275
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.5759215634316206
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6646731793880463
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.5755489934235811
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.576324375346303
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.5757514759898186
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6352487057447433
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.5780607350170612
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5780176147818565
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.577848656103015
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.6432324256747961
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5785442758351564
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5779495872557163
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.6697887759655714
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5778774488717318
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.578008646145463
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5779247358441353
+covariance,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.6303909178823233

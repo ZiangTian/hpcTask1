@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.04156241798773408
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.042058271006681025
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.041567238979041576
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.04158531303983182
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.041569941909983754
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.041640492039732635
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.041418973938561976
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.04194929206278175
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.04161681700497866
+floydwar,microapp,Graphs,dynamic_programming,Pythran,main,pythran,True,0.041577396099455655

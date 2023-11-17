@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.14207104302477092
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.14260704000480473
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.14212466904427856
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.14343952597118914
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.14094394398853183
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.16050821205135435
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.16508781700395048
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.1641396499471739
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.16454243997577578
+vadv,microapp,Weather,structured_grids,Pythran,main,pythran,True,0.16364141600206494

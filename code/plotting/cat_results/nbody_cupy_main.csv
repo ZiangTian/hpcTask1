@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.257073163986206
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2551395893096924
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2522552013397217
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2530317306518555
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2517735958099365
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.254889726638794
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2562062740325928
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2554843425750732
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2555720806121826
+nbody,microapp,Physics,nbody,CuPy GPU,main,cupy,True,1.2555973529815674

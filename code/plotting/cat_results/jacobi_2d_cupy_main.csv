@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.2736654281616211
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.27335143089294434
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.27366018295288086
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.2733428478240967
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.27367520332336426
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.27332544326782227
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.2736492156982422
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.2733602523803711
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.27367520332336426
+jacobi2d,microbench,Physics,structured_grids,CuPy GPU,main,cupy,True,0.27329111099243164

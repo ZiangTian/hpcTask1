@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.1397922319592908
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.13747232290916145
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.15407872991636395
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.15736831107642502
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.15662728005554527
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.15528980502858758
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.1578388570342213
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.15542103594634682
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.15731478901579976
+vadv,microapp,Weather,structured_grids,NumPy,main,numpy,True,0.1555471799802035

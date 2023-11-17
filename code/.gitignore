@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.so
+**/.dacecache
+**/_dacegraphs
+**/__pycache__

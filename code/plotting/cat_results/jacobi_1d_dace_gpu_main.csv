@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.034627160988748074
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03367954399436712
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03347377595491707
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.033541716053150594
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03242836892604828
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03184947301633656
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03203505999408662
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03190277796238661
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03179024707060307
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,strict,True,0.03181621595285833
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.02171497803647071
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021548519958741963
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021480506984516978
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021481681964360178
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021301995031535625
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.02112287690397352
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021438603987917304
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.02145409199874848
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021533122984692454
+jacobi1d,microbench,Physics,structured_grids,DaCe GPU,main,fusion,True,0.021561795030720532

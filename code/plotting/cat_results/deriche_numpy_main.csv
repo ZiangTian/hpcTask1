@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4405851860065013
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4393145659705624
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4438981669954956
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.44303184596356
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4450896460330114
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4419907360570505
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.441955204005353
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4403649809537455
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.441848518908955
+deriche,microapp,Signals,dense_linear_algebra,NumPy,main,numpy,True,2.4381426880136132

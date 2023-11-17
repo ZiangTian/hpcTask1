@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.3328375816345215
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.326805591583252
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.326495885848999
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.32524037361145
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.297221660614014
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.287489414215088
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.302793979644775
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.290491342544556
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.3069422245025635
+adi,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,7.297406196594238

@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.9243113819975406
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.877580099971965
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.8745373679557815
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.8697213180130348
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.8759771320037544
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.8816357409814373
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.8759350629989058
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.871991949970834
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.8736736950231716
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,strict,False,0.871113786008209
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.6128964000381529
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5497595940250903
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5479138159425929
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5482669230550528
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5473997439257801
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5470323550980538
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5471982629969716
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5493504049954936
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5500872370321304
+deriche,microapp,Signals,dense_linear_algebra,DaCe GPU,main,fusion,False,0.5479807989904657

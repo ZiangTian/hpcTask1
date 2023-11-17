@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.991407435387373
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9912614766508341
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,1.0012354478240013
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9925297759473324
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9928799960762262
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9938175659626722
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,1.0034812185913324
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9932820331305265
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9935511834919453
+nbody,microapp,physics,nbody,NumPy,main,numpy,True,0.9943385142832994

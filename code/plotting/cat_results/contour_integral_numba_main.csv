@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6517835130216554
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6250638230121695
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6472360779880546
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6292420520330779
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6332746769767255
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6366011859499849
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6420217750128359
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.635593910003081
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6346910999855027
+coninteg,microapp,Physics,dense_linear_algebra,Numba,main,nopython_mode,True,0.6307007790310308

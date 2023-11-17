@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.005260011006612331
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.0052557410090230405
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.005053898028563708
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.005087137978989631
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.005102261027786881
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.00504507397999987
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.005038902047090232
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.0050146200228482485
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.0050308380159549415
+lenet,microapp,Learning,dense_linear_algebra,Pythran,main,pythran,True,0.005102039023768157

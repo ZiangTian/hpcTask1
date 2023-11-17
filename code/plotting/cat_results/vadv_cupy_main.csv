@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.030599594116210938
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.029902935028076172
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.030629634857177734
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.02988600730895996
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.02950572967529297
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.02977132797241211
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.0294189453125
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.029651403427124023
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.029651165008544922
+vadv,microapp,Weather,structured_grids,CuPy GPU,main,cupy,True,0.029668569564819336

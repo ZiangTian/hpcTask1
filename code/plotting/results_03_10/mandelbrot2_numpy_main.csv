@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,0.9925744868814945
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,1.0008407086133957
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,1.0025534592568874
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,0.9995021633803844
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,1.00241887755692
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,0.999882984906435
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,1.00216468796134
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,0.9995134323835373
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,1.0025040283799171
+mandelbrot2,microbench,kernels,unstructured_grids,NumPy,main,numpy,True,1.0002530328929424

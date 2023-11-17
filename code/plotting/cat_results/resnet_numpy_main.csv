@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.363446387986187
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.368459716963116
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.349164857005235
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.3802763909916393
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.343836920976173
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.381559643021319
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.3792395280324854
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.377756292989943
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.3789900899864733
+resnet,microapp,Learning,dense_linear_algebra,NumPy,main,numpy,True,2.378341698960867

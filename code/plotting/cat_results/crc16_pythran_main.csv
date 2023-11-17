@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0008256960427388549
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007726210169494152
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007538119098171592
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.000753781059756875
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007489449344575405
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007601720280945301
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007512070005759597
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007576079806312919
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007608960149809718
+crc16,microbench,Other,combinatorial,Pythran,main,pythran,True,0.0007457289611920714

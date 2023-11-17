@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.279391679912806
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.382990434765816
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.429015593603253
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.512862280011177
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.54116253182292
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.558690641075373
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.559770587831736
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.474217850714922
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.88280395232141
+nussinov,microapp,molecular_biology,dynamic_programming,NumPy,main,numpy,True,21.935276249423623

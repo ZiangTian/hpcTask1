@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.39863359183073044
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.43474764563143253
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.43039429001510143
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.4325375445187092
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.4301512874662876
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.4302194304764271
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.42973800003528595
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.42986647970974445
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.43773780949413776
+covariance,microbench,data_mining,dense_linear_algebra,NumPy,main,numpy,True,0.40896133333444595

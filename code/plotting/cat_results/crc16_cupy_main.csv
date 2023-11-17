@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,55.06315755844116
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.783732414245605
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,55.01836585998535
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.99336886405945
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.97956204414368
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,55.00042223930359
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.89754271507263
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.90826773643494
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.825849294662476
+crc16,microbench,Other,combinatorial,CuPy GPU,main,cupy,True,54.78037118911743

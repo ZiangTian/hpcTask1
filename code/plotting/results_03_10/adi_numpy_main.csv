@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.05354692786932
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.052662307396531
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0451444368809462
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0457418970763683
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0491533447057009
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0500916596502066
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0443646367639303
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0521850362420082
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.049840809777379
+adi,microbench,kernels,structured_grids,NumPy,main,numpy,True,1.0420708004385233

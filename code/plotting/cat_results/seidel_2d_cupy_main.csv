@@ -1,0 +1,2 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+seidel2d,microbench,Solver,structured_grids,CuPy GPU,main,cupy,True,434.184

@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.0005739479092881083
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.0004055820172652602
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.00036377599462866783
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.0003627350088208914
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.00035667105112224817
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.00034859206061810255
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.0003542780177667737
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.0003550590481609106
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.0003516699653118849
+atax,microbench,LinAlg,dense_linear_algebra,Pythran,main,pythran,True,0.00035673403181135654

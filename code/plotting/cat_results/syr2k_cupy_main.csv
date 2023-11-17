@@ -1,0 +1,2 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+syr2k,microbench,LinAlg,dense_linear_algebra,CuPy GPU,main,cupy,True,72.248

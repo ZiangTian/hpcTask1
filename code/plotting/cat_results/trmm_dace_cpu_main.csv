@@ -1,0 +1,3 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+trmm,microbench,LinAlg,dense_linear_algebra,DaCe,main,strict,True,1.238123893737793
+trmm,microbench,LinAlg,dense_linear_algebra,DaCe,main,fusion,True,1.2677040100097656

@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.607157230377197
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.624281167984009
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.58870530128479
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.6071391105651855
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.575091361999512
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.5943603515625
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.571265697479248
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.589076280593872
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.580906867980957
+cavtflow,microapp,Physics,structured_grids,CuPy GPU,main,cupy,True,6.580283164978027

@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.006284696981310844
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.005640818038955331
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.005992152029648423
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.005625141027849168
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.006164952996186912
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.005704555020201951
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.005901201977394521
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.005767446011304855
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.006047828996088356
+azimhist,microapp,Chemistry,spectral_methods,Pythran,main,pythran,True,0.0056467330432496965

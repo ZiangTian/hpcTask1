@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6045749559998512
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6536200419068336
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6031579710543156
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6037074532359838
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6743151564151049
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6037731729447842
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6042571999132633
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6044378448277712
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6603390593081713
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,strict,True,0.6040004119277
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5944167915731668
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.658872889354825
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5940375588834286
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5943413600325584
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5944452807307243
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.6712212916463614
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5936836283653975
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5933015085756779
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.6562402844429016
+correlation,microbench,data_mining,dense_linear_algebra,DaCe CPU,main,fusion,True,0.5929234977811575

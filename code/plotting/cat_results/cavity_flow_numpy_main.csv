@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.8591725699952804
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9550424289773218
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9549838589737192
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9547169730067253
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9533146539470181
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9513665519771166
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9513618550263345
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9495827840291895
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.949560354987625
+cavtflow,microapp,Physics,structured_grids,NumPy,main,numpy,True,0.9492032670532353

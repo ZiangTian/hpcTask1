@@ -1,0 +1,21 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.099966424051672
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0841268120566383
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0790126400534064
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0839345460990444
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0739336260594428
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0701081519946456
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0694811840076
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0694585139863193
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0666379099711776
+adi,microbench,Solver,structured_grids,DaCe GPU,main,strict,False,3.0799141319002956
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.122655719053
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.1060519909951836
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.1078394110081717
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.105682436027564
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.1003677520202473
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.101287043071352
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.102825313922949
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.0943258840125054
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.099759739008732
+adi,microbench,Solver,structured_grids,DaCe GPU,main,fusion,False,2.1079224969726056

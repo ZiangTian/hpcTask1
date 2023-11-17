@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.2893992450553924
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.289541215985082
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.2898242300143465
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.2898818070534617
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.2878592290217057
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.287666719057597
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.2893182310508564
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.287424052017741
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.287236889009364
+ludcmp,microbench,Solver,dense_linear_algebra,Pythran,main,pythran,True,2.2863980890251696

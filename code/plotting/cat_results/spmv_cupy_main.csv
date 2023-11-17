@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.498138427734375
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.4962306022644043
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.4953925609588623
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.49617433547973633
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.495685338973999
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.49572205543518066
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.49736523628234863
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.49678540229797363
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.49850034713745117
+spmv,microapp,Graphs,sparse_linear_algebra,CuPy GPU,main,cupy,True,0.4990527629852295

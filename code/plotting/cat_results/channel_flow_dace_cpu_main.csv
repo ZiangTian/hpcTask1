@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.22144221095368266
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.31830544502008706
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.30971457896521315
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.3212529610027559
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.308839995006565
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.3363538419944234
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.3387590509955771
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.325522160041146
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.32305564801208675
+chanflow,microapp,Physics,structured_grids,DaCe,main,strict,False,0.3167646579677239

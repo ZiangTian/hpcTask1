@@ -1,0 +1,11 @@
+benchmark,kind,domain,dwarf,framework,mode,details,validated,time
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07525765302125365
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07549919094890356
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07538281299639493
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.0748503670329228
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07534254004713148
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.0753986049676314
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07542912906501442
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07542211899999529
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07486837799660861
+seidel2d,microbench,Solver,structured_grids,Pythran,main,pythran,True,0.07574855606071651
